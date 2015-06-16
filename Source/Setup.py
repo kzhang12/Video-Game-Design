@@ -1,0 +1,18 @@
+INTERVAL = 1
+WIDTH = 800
+HEIGHT = 600
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+NUM_VILLAINS = 23
+PROJECTILE_SPEED = 1
+
+MIN_X_POS = None
+MAX_X_POS = None
+MIN_Y_POS = None
+MAX_Y_POS = None
+
+FADEINTIME = 3.0
+FADEOUTTIME = 3.0
+
+GRID_SIZE = 40  # Size of each square that we check for collisions in
+PIXEL_SIZE = 32
