@@ -1,0 +1,12 @@
+Fire Commander: So this is the kid you've been telling me about.
+Village Elder: Yes, % shows true promise.
+Fire Commander: You speak the truth - % has reunited the Fire Nation
+with the Dragon Blade. What is your name?
+@: @, sir!
+Fire Commander: Well done, @. How would you like a chance to prove yourself
+worthy of the Ember Guard? You would be the youngest person in history to
+join the Fire Nation's most elite military branch.
+@: It would be a great honor, sir!
+Fire Commander: To begin, you must learn to control the element of fire.
+Try casting a few fireballs to demonstrate your strength.
+@: Hey, I bet if I press r, I will shoot a fireball!
